@@ -6,6 +6,7 @@ package com.kwave.android.httpurlconnection.domain;
 
 public class Data
 {
+    // json은 변수명이 object명이 된다.
     private SearchPublicToiletPOIService SearchPublicToiletPOIService;
 
     public SearchPublicToiletPOIService getSearchPublicToiletPOIService ()
